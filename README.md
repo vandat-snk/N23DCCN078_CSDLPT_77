@@ -174,6 +174,7 @@ Node C: 4/5 (80.0%)
 
 Tổng Linkage Accuracy: 88.9%
 ```
+Tập kiểm thử gồm 18 bản ghi local, trong đó 16 bản ghi có DBpedia snippets tương ứng và 2 bản ghi không có DBpedia tương ứng. Hai bản ghi không khớp sẽ được hệ thống đánh dấu là `unlinked` và giữ `@id = null`. Cách thiết kế này giúp kiểm tra cả trường hợp liên kết thành công và trường hợp không tìm được thực thể DBpedia phù hợp.
 
 Do `master.py` xử lý các node song song bằng multi-threading nên log trên terminal có thể bị xen kẽ giữa các node. Kết quả tổng kết cuối cùng là kết quả chính xác.
 
@@ -189,10 +190,12 @@ knowledge_graph.png
 
 Trong đồ thị:
 
-- Màu xanh: dữ liệu local.
+- Màu xanh: dữ liệu local đã liên kết thành công.
 - Màu đỏ: dữ liệu DBpedia snippets.
 - Đường nối: liên kết được tạo sau khi khử mơ hồ.
 - Nhãn cạnh: điểm matching score.
+
+Knowledge Graph chỉ hiển thị các liên kết được tạo thành công. Các bản ghi local không liên kết được với DBpedia sẽ không có cạnh nối trong graph, nhưng vẫn được tính vào Linkage Accuracy.
 
 ---
 
@@ -230,6 +233,7 @@ http://dbpedia.org/resource/Louis_Pasteur
 
 Do dữ liệu DBpedia thật không phải lúc nào cũng có đầy đủ `affiliation` hoặc `field`, hệ thống có bước chuẩn hóa dữ liệu trước khi đưa vào thuật toán matching.
 
+Trong demo hiện tại, hệ thống sử dụng 16 DBpedia snippets thật và 18 bản ghi local. Hai bản ghi local không có DBpedia tương ứng được dùng để kiểm thử khả năng từ chối liên kết khi điểm matching không đạt ngưỡng (<50).
 ---
 
 ## 11. Liên hệ lý thuyết
