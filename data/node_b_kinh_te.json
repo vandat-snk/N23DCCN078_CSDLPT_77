@@ -7,7 +7,7 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/Adam_Smith",
+    "@id": null,
     "researcher_id": "LOCAL-051",
     "name": "Adam Smith",
     "affiliation": "University of Glasgow",
@@ -23,7 +23,7 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/John_Maynard_Keynes",
+    "@id": null,
     "researcher_id": "LOCAL-052",
     "name": "John Maynard Keynes",
     "affiliation": "University of Cambridge",
@@ -39,7 +39,7 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/Milton_Friedman",
+    "@id": null,
     "researcher_id": "LOCAL-053",
     "name": "Milton Friedman",
     "affiliation": "University of Chicago",
@@ -55,7 +55,7 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/Amartya_Sen",
+    "@id": null,
     "researcher_id": "LOCAL-054",
     "name": "Amartya Sen",
     "affiliation": "Harvard University",
@@ -71,7 +71,7 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/Joseph_Stiglitz",
+    "@id": null,
     "researcher_id": "LOCAL-055",
     "name": "Joseph Stiglitz",
     "affiliation": "Columbia University",

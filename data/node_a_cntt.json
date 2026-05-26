@@ -7,7 +7,7 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/Alan_Turing",
+    "@id": null,
     "researcher_id": "LOCAL-001",
     "name": "Alan Turing",
     "affiliation": "University of Manchester",
@@ -23,7 +23,7 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/Tim_Berners-Lee",
+    "@id": null,
     "researcher_id": "LOCAL-002",
     "name": "Tim Berners-Lee",
     "affiliation": "Massachusetts Institute of Technology",
@@ -39,7 +39,7 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/Donald_Knuth",
+    "@id": null,
     "researcher_id": "LOCAL-003",
     "name": "Donald Knuth",
     "affiliation": "Stanford University",
@@ -55,7 +55,7 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/Edsger_W._Dijkstra",
+    "@id": null,
     "researcher_id": "LOCAL-004",
     "name": "Edsger W. Dijkstra",
     "affiliation": "Eindhoven University of Technology",
@@ -71,7 +71,7 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/Ada_Lovelace",
+    "@id": null,
     "researcher_id": "LOCAL-005",
     "name": "Ada Lovelace",
     "affiliation": "University of London",
@@ -87,7 +87,7 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/Claude_Shannon",
+    "@id": null,
     "researcher_id": "LOCAL-006",
     "name": "Claude Shannon",
     "affiliation": "Massachusetts Institute of Technology",
@@ -103,12 +103,28 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/John_McCarthy_(computer_scientist)",
+    "@id": null,
     "researcher_id": "LOCAL-007",
     "name": "John McCarthy",
     "affiliation": "Stanford University",
     "researchArea": "Artificial Intelligence",
     "university": "Stanford",
     "publications": 19
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": null,
+    "researcher_id": "LOCAL-008",
+    "name": "Võ Van Dat",
+    "affiliation": "PTIT",
+    "researchArea": "Distributed Databases",
+    "university": "PTIT",
+    "publications": 3
   }
 ]

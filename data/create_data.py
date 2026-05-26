@@ -35,6 +35,7 @@ researchers_cntt = [
     researcher("LOCAL-005", "Ada Lovelace", "University of London", "Computer Science", "London", 8),
     researcher("LOCAL-006", "Claude Shannon", "Massachusetts Institute of Technology", "Information Theory", "MIT", 25),
     researcher("LOCAL-007", "John McCarthy", "Stanford University", "Artificial Intelligence", "Stanford", 19),
+    researcher("LOCAL-008", "Võ Van Dat", "PTIT", "Distributed Databases", "PTIT", 3),
 ]
 
 researchers_kinh_te = [
@@ -50,6 +51,7 @@ researchers_y_te = [
     researcher("LOCAL-102", "Alexander Fleming", "St Mary's Hospital Medical School", "Medicine", "St Mary's", 15),
     researcher("LOCAL-103", "Jonas Salk", "University of Pittsburgh", "Medicine", "Pittsburgh", 12),
     researcher("LOCAL-104", "Tu Youyou", "China Academy of Chinese Medical Sciences", "Pharmacology", "CACMS", 16),
+    researcher("LOCAL-105", "Hoang Phu Huy", "Local Medical University", "Nursing", "LMU", 2),
 ]
 
 def save_json(filename, data):

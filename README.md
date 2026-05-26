@@ -29,6 +29,7 @@ Mục tiêu chính:
 - Trực quan hóa kết quả bằng Knowledge Graph.
 - Mô phỏng lỗi Node B trong hệ phân tán.
 
+Trong phiên bản demo, dữ liệu local gồm 18 bản ghi. Trong đó có 16 bản ghi có DBpedia snippets tương ứng và 2 bản ghi không có DBpedia tương ứng để kiểm thử trường hợp không liên kết.
 ---
 
 ## 2. Cấu trúc thư mục
@@ -61,7 +62,7 @@ jsonld-linker/
 Cài các thư viện cần thiết:
 
 ```bash
-pip install flask requests networkx matplotlib
+python -m pip install flask requests networkx matplotlib
 ```
 
 Nếu dùng môi trường ảo `venv`, có thể kích hoạt trước:
@@ -167,11 +168,11 @@ Hệ thống sẽ dựa vào `affiliation` và `researchArea` để chọn đún
 Khi chạy thành công, terminal sẽ hiển thị kết quả tương tự:
 
 ```text
-Node A: 7/7 (100.0%)
+Node A: 7/8 (87.5%)
 Node B: 5/5 (100.0%)
-Node C: 4/4 (100.0%)
+Node C: 4/5 (80.0%)
 
-Tổng Linkage Accuracy: 100.0%
+Tổng Linkage Accuracy: 88.9%
 ```
 
 Do `master.py` xử lý các node song song bằng multi-threading nên log trên terminal có thể bị xen kẽ giữa các node. Kết quả tổng kết cuối cùng là kết quả chính xác.

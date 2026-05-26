@@ -14,7 +14,7 @@
     "dbpedia_field_raw": "",
     "dbpedia_affiliation_raw": "",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   },
   {
     "@context": {
@@ -31,7 +31,7 @@
     "dbpedia_field_raw": "",
     "dbpedia_affiliation_raw": "",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   },
   {
     "@context": {
@@ -48,7 +48,7 @@
     "dbpedia_field_raw": "",
     "dbpedia_affiliation_raw": "",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   },
   {
     "@context": {
@@ -65,7 +65,7 @@
     "dbpedia_field_raw": "",
     "dbpedia_affiliation_raw": "St Mary's Hospital Medical School | University of Westminster",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   },
   {
     "@context": {
@@ -82,7 +82,7 @@
     "dbpedia_field_raw": "",
     "dbpedia_affiliation_raw": "",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   },
   {
     "@context": {
@@ -99,7 +99,7 @@
     "dbpedia_field_raw": "",
     "dbpedia_affiliation_raw": "",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   },
   {
     "@context": {
@@ -116,7 +116,7 @@
     "dbpedia_field_raw": "",
     "dbpedia_affiliation_raw": "",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   },
   {
     "@context": {
@@ -133,7 +133,7 @@
     "dbpedia_field_raw": "",
     "dbpedia_affiliation_raw": "",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   },
   {
     "@context": {
@@ -150,7 +150,7 @@
     "dbpedia_field_raw": "Political economy | Probability",
     "dbpedia_affiliation_raw": "",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   },
   {
     "@context": {
@@ -167,7 +167,7 @@
     "dbpedia_field_raw": "",
     "dbpedia_affiliation_raw": "",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   },
   {
     "@context": {
@@ -184,7 +184,7 @@
     "dbpedia_field_raw": "",
     "dbpedia_affiliation_raw": "City College of New York | New York University",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   },
   {
     "@context": {
@@ -201,7 +201,7 @@
     "dbpedia_field_raw": "",
     "dbpedia_affiliation_raw": "",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   },
   {
     "@context": {
@@ -218,7 +218,7 @@
     "dbpedia_field_raw": "",
     "dbpedia_affiliation_raw": "",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   },
   {
     "@context": {
@@ -235,7 +235,7 @@
     "dbpedia_field_raw": "Macroeconomics",
     "dbpedia_affiliation_raw": "",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   },
   {
     "@context": {
@@ -252,7 +252,7 @@
     "dbpedia_field_raw": "",
     "dbpedia_affiliation_raw": "",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   },
   {
     "@context": {
@@ -269,6 +269,6 @@
     "dbpedia_field_raw": "",
     "dbpedia_affiliation_raw": "Peking University Health Science Center",
     "source": "DBpedia SPARQL endpoint",
-    "fetched_at": "2026-05-18T09:24:06"
+    "fetched_at": "2026-05-26T13:00:11"
   }
 ]

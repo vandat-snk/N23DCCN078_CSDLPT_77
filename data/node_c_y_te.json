@@ -7,7 +7,7 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/Louis_Pasteur",
+    "@id": null,
     "researcher_id": "LOCAL-101",
     "name": "Louis Pasteur",
     "affiliation": "University of Strasbourg",
@@ -23,7 +23,7 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/Alexander_Fleming",
+    "@id": null,
     "researcher_id": "LOCAL-102",
     "name": "Alexander Fleming",
     "affiliation": "St Mary's Hospital Medical School",
@@ -39,7 +39,7 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/Jonas_Salk",
+    "@id": null,
     "researcher_id": "LOCAL-103",
     "name": "Jonas Salk",
     "affiliation": "University of Pittsburgh",
@@ -55,12 +55,28 @@
       "university": "http://dbpedia.org/ontology/university",
       "publications": "http://dbpedia.org/ontology/publication"
     },
-    "@id": "http://dbpedia.org/resource/Tu_Youyou",
+    "@id": null,
     "researcher_id": "LOCAL-104",
     "name": "Tu Youyou",
     "affiliation": "China Academy of Chinese Medical Sciences",
     "researchArea": "Pharmacology",
     "university": "CACMS",
     "publications": 16
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": null,
+    "researcher_id": "LOCAL-105",
+    "name": "Hoang Phu Huy",
+    "affiliation": "Local Medical University",
+    "researchArea": "Nursing",
+    "university": "LMU",
+    "publications": 2
   }
 ]
