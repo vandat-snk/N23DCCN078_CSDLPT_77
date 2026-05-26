@@ -232,7 +232,9 @@ http://dbpedia.org/resource/Louis_Pasteur
 ```
 
 Do dữ liệu DBpedia thật không phải lúc nào cũng có đầy đủ `affiliation` hoặc `field`, hệ thống có bước chuẩn hóa dữ liệu trước khi đưa vào thuật toán matching.
+
 Trong demo hiện tại, hệ thống sử dụng 16 DBpedia snippets thật và 18 bản ghi local. Hai bản ghi local không có DBpedia tương ứng được dùng để kiểm thử khả năng từ chối liên kết khi điểm matching không đạt ngưỡng (<50).
+
 ---
 
 ## 11. Liên hệ lý thuyết
