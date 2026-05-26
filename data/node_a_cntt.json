@@ -1,0 +1,114 @@
+[
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/Alan_Turing",
+    "researcher_id": "LOCAL-001",
+    "name": "Alan Turing",
+    "affiliation": "University of Manchester",
+    "researchArea": "Computer Science",
+    "university": "Manchester",
+    "publications": 20
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/Tim_Berners-Lee",
+    "researcher_id": "LOCAL-002",
+    "name": "Tim Berners-Lee",
+    "affiliation": "Massachusetts Institute of Technology",
+    "researchArea": "Computer Science",
+    "university": "MIT",
+    "publications": 18
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/Donald_Knuth",
+    "researcher_id": "LOCAL-003",
+    "name": "Donald Knuth",
+    "affiliation": "Stanford University",
+    "researchArea": "Computer Science",
+    "university": "Stanford",
+    "publications": 30
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/Edsger_W._Dijkstra",
+    "researcher_id": "LOCAL-004",
+    "name": "Edsger W. Dijkstra",
+    "affiliation": "Eindhoven University of Technology",
+    "researchArea": "Computer Science",
+    "university": "TU/e",
+    "publications": 22
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/Ada_Lovelace",
+    "researcher_id": "LOCAL-005",
+    "name": "Ada Lovelace",
+    "affiliation": "University of London",
+    "researchArea": "Computer Science",
+    "university": "London",
+    "publications": 8
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/Claude_Shannon",
+    "researcher_id": "LOCAL-006",
+    "name": "Claude Shannon",
+    "affiliation": "Massachusetts Institute of Technology",
+    "researchArea": "Information Theory",
+    "university": "MIT",
+    "publications": 25
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/John_McCarthy_(computer_scientist)",
+    "researcher_id": "LOCAL-007",
+    "name": "John McCarthy",
+    "affiliation": "Stanford University",
+    "researchArea": "Artificial Intelligence",
+    "university": "Stanford",
+    "publications": 19
+  }
+]

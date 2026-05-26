@@ -1,0 +1,274 @@
+[
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/Ada_Lovelace",
+    "name": "Ada Lovelace",
+    "affiliation": "University of London",
+    "field": "Computer Science",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "",
+    "dbpedia_affiliation_raw": "",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/Adam_Smith",
+    "name": "Adam Smith",
+    "affiliation": "University of Glasgow",
+    "field": "Economics",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "",
+    "dbpedia_affiliation_raw": "",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/Alan_Turing",
+    "name": "Alan Turing",
+    "affiliation": "University of Manchester",
+    "field": "Computer Science",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "",
+    "dbpedia_affiliation_raw": "",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/Alexander_Fleming",
+    "name": "Alexander Fleming",
+    "affiliation": "St Mary's Hospital Medical School",
+    "field": "Medicine",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "",
+    "dbpedia_affiliation_raw": "St Mary's Hospital Medical School | University of Westminster",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/Amartya_Sen",
+    "name": "Amartya Sen",
+    "affiliation": "Harvard University",
+    "field": "Economics",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "",
+    "dbpedia_affiliation_raw": "",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/Claude_Shannon",
+    "name": "Claude Shannon",
+    "affiliation": "Massachusetts Institute of Technology",
+    "field": "Information Theory",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "",
+    "dbpedia_affiliation_raw": "",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/Donald_Knuth",
+    "name": "Donald Knuth",
+    "affiliation": "Stanford University",
+    "field": "Computer Science",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "",
+    "dbpedia_affiliation_raw": "",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/Edsger_W._Dijkstra",
+    "name": "Edsger W. Dijkstra",
+    "affiliation": "Eindhoven University of Technology",
+    "field": "Computer Science",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "",
+    "dbpedia_affiliation_raw": "",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/John_Maynard_Keynes",
+    "name": "John Maynard Keynes",
+    "affiliation": "University of Cambridge",
+    "field": "Economics",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "Political economy | Probability",
+    "dbpedia_affiliation_raw": "",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/John_McCarthy_(computer_scientist)",
+    "name": "John McCarthy (computer scientist)",
+    "affiliation": "Stanford University",
+    "field": "Artificial Intelligence",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "",
+    "dbpedia_affiliation_raw": "",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/Jonas_Salk",
+    "name": "Jonas Salk",
+    "affiliation": "University of Pittsburgh",
+    "field": "Medicine",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "",
+    "dbpedia_affiliation_raw": "City College of New York | New York University",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/Joseph_Stiglitz",
+    "name": "Joseph Stiglitz",
+    "affiliation": "Columbia University",
+    "field": "Economics",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "",
+    "dbpedia_affiliation_raw": "",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/Louis_Pasteur",
+    "name": "Louis Pasteur",
+    "affiliation": "University of Strasbourg",
+    "field": "Microbiology",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "",
+    "dbpedia_affiliation_raw": "",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/Milton_Friedman",
+    "name": "Milton Friedman",
+    "affiliation": "University of Chicago",
+    "field": "Economics",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "Macroeconomics",
+    "dbpedia_affiliation_raw": "",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/Tim_Berners-Lee",
+    "name": "Tim Berners-Lee",
+    "affiliation": "Massachusetts Institute of Technology",
+    "field": "Computer Science",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "",
+    "dbpedia_affiliation_raw": "",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "field": "http://dbpedia.org/ontology/field",
+      "abstract": "http://dbpedia.org/ontology/abstract"
+    },
+    "@id": "http://dbpedia.org/resource/Tu_Youyou",
+    "name": "Tu Youyou",
+    "affiliation": "China Academy of Chinese Medical Sciences",
+    "field": "Pharmacology",
+    "abstract": "No English abstract available from DBpedia.",
+    "dbpedia_field_raw": "",
+    "dbpedia_affiliation_raw": "Peking University Health Science Center",
+    "source": "DBpedia SPARQL endpoint",
+    "fetched_at": "2026-05-18T09:24:06"
+  }
+]

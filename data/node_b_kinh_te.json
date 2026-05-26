@@ -1,0 +1,82 @@
+[
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/Adam_Smith",
+    "researcher_id": "LOCAL-051",
+    "name": "Adam Smith",
+    "affiliation": "University of Glasgow",
+    "researchArea": "Economics",
+    "university": "Glasgow",
+    "publications": 12
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/John_Maynard_Keynes",
+    "researcher_id": "LOCAL-052",
+    "name": "John Maynard Keynes",
+    "affiliation": "University of Cambridge",
+    "researchArea": "Economics",
+    "university": "Cambridge",
+    "publications": 18
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/Milton_Friedman",
+    "researcher_id": "LOCAL-053",
+    "name": "Milton Friedman",
+    "affiliation": "University of Chicago",
+    "researchArea": "Economics",
+    "university": "Chicago",
+    "publications": 25
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/Amartya_Sen",
+    "researcher_id": "LOCAL-054",
+    "name": "Amartya Sen",
+    "affiliation": "Harvard University",
+    "researchArea": "Economics",
+    "university": "Harvard",
+    "publications": 21
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/Joseph_Stiglitz",
+    "researcher_id": "LOCAL-055",
+    "name": "Joseph Stiglitz",
+    "affiliation": "Columbia University",
+    "researchArea": "Economics",
+    "university": "Columbia",
+    "publications": 24
+  }
+]

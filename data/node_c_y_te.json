@@ -1,0 +1,66 @@
+[
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/Louis_Pasteur",
+    "researcher_id": "LOCAL-101",
+    "name": "Louis Pasteur",
+    "affiliation": "University of Strasbourg",
+    "researchArea": "Microbiology",
+    "university": "Strasbourg",
+    "publications": 20
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/Alexander_Fleming",
+    "researcher_id": "LOCAL-102",
+    "name": "Alexander Fleming",
+    "affiliation": "St Mary's Hospital Medical School",
+    "researchArea": "Medicine",
+    "university": "St Mary's",
+    "publications": 15
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/Jonas_Salk",
+    "researcher_id": "LOCAL-103",
+    "name": "Jonas Salk",
+    "affiliation": "University of Pittsburgh",
+    "researchArea": "Medicine",
+    "university": "Pittsburgh",
+    "publications": 12
+  },
+  {
+    "@context": {
+      "name": "http://xmlns.com/foaf/0.1/name",
+      "affiliation": "http://dbpedia.org/ontology/affiliation",
+      "researchArea": "http://dbpedia.org/ontology/field",
+      "university": "http://dbpedia.org/ontology/university",
+      "publications": "http://dbpedia.org/ontology/publication"
+    },
+    "@id": "http://dbpedia.org/resource/Tu_Youyou",
+    "researcher_id": "LOCAL-104",
+    "name": "Tu Youyou",
+    "affiliation": "China Academy of Chinese Medical Sciences",
+    "researchArea": "Pharmacology",
+    "university": "CACMS",
+    "publications": 16
+  }
+]
