@@ -248,10 +248,3 @@ Dự án có liên hệ với các nội dung trong môn Cơ sở Dữ liệu Ph
 - **Semantic Data Management:** sử dụng JSON-LD, `@context`, `@id`.
 
 ---
-
-## 12. Tác giả
-
-**Nhóm:** GraphConnect  
-**Thành viên:** Võ Văn Đạt  
-**Môn học:** Cơ sở Dữ liệu Phân tán  
-**Đề tài:** #77 – JSON-LD Linker: Open Data Knowledge Graph
